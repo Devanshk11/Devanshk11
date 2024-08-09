@@ -1,17 +1,20 @@
-<h2 align="left">Hi 👋! My name is Devansh and I'm an Aspiring Data Science Student!</h2>
+<h2 align="left">🙋 About Me :</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devanshk11&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Devanshk11&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+ **Hi 👋! My name is Devansh and I'm an Aspiring Data Science Student!**
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Devanshk11/count.svg?"  />
-</div>
+🔭 I’m currently working on Machine Learning models and algorithms </br>
+🤝 I’m looking for help with OpenAI Generative Pre-trained models (GPT-3) </br>
+🌱 I’m currently learning about RPA (Robotic Process Automation) </br>
+💬 Ask me about Web Development
+
+
+
+
+
 
 <br clear="both">
 
-<p align="left">💻 Tech Stack:</p>
+<h2 align="left">💻 Tech Stack:</h2>
 
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
@@ -75,7 +78,7 @@
   <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="40" alt="pandas logo"  />
 </div>
 
-<p align="left">🌐 Get In Touch!</p>
+<h2 align="left">🌐 Get In Touch!</h2>
 
 <div align="left">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dskapsit@gmail.com&su=Hello&body=Hi Devansh," target="_blank">
@@ -84,6 +87,15 @@
   <a href="https://www.linkedin.com/in/devanshhk/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
+</div>
+
+<h2 align="left">📊 GitHub Stats:</h2>
+<div align="center">
+  <div align="center">
+  <img src="https://profile-counter.glitch.me/Devanshk11/count.svg?"  />
+</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Devanshk11&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Devanshk11&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 
