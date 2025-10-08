@@ -1,10 +1,10 @@
 <h2 align="left">🙋 About Me :</h2>
 
- **Hi 👋! My name is Devansh and I'm an Aspiring Data Science Student!**
+ **Hi 👋! My name is Devansh and I'm a Future Roboticist studying at the University of Bristol**
 
 🔭 I’m currently working on Machine Learning models and algorithms </br>
 🤝 I’m looking for help with OpenAI Generative Pre-trained models (GPT-3) </br>
-🌱 I’m currently learning about RPA (Robotic Process Automation) </br>
+🌱 I’m currently learning about RPA (Robotic Process Automation) and Machine Vision application on an industry scale </br>
 💬 Ask me about Web Development
 
 
