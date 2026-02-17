@@ -6,7 +6,7 @@ I have been around computers for as long as I can remember. What started as basi
 
 I studied Data Science to build a strong foundation in programming and problem-solving, but over time I realised I was less interested in purely desk-based work and more drawn to systems that interact with the physical environment. That curiosity led me to pursue a Master’s in Robotics at the University of Bristol.
 
-I enjoy working on problems where software, sensing, and hardware constraints collide. My interests lie in autonomous systems, embedded control, and experimental robotics — especially projects that move beyond simulation and require careful tuning, evaluation, and iteration on real platforms.
+I enjoy working on problems where software, sensing, and hardware constraints collide. My interests lie in autonomous systems, embedded control, and experimental robotics - especially projects that move beyond simulation and require careful tuning, evaluation, and iteration on real platforms.
 
 I am still learning and experimenting, but I care deeply about building things that work, understanding trade-offs in system design, and growing through hands-on engineering.
 
