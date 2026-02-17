@@ -1,4 +1,4 @@
-<h2 align="left">🙋 About Me :</h2>
+<h2 align="left">🙋 About Me </h2>
 
  **Hi 👋! My name is Devansh and I'm a MSc Robotics student at the University of Bristol**
 
@@ -16,7 +16,7 @@ I am still learning and experimenting, but I care deeply about building things t
 
 <br clear="both">
 
-<h2 align="left">💻 Tech Stack:</h2>
+<h2 align="left">💻 Tech Stack </h2>
 
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
