@@ -2,11 +2,13 @@
 
  **Hi 👋! My name is Devansh and I'm a MSc Robotics student at the University of Bristol**
 
-🔭 I’m currently working on Machine Learning models and algorithms </br>
-🤝 I’m looking for help with OpenAI Generative Pre-trained models (GPT-3) </br>
-🌱 I’m currently learning about RPA (Robotic Process Automation) and Machine Vision application on an industry scale </br>
-💬 Ask me about Web Development
+I have been around computers for as long as I can remember. What started as basic school projects slowly turned into a desire to understand how systems actually work - not just in code, but in the real world.
 
+I studied Data Science to build a strong foundation in programming and problem-solving, but over time I realised I was less interested in purely desk-based work and more drawn to systems that interact with the physical environment. That curiosity led me to pursue a Master’s in Robotics at the University of Bristol.
+
+I enjoy working on problems where software, sensing, and hardware constraints collide. My interests lie in autonomous systems, embedded control, and experimental robotics — especially projects that move beyond simulation and require careful tuning, evaluation, and iteration on real platforms.
+
+I am still learning and experimenting, but I care deeply about building things that work, understanding trade-offs in system design, and growing through hands-on engineering.
 
 
 
