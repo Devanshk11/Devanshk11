@@ -1,6 +1,6 @@
 <h2 align="left">🙋 About Me :</h2>
 
- **Hi 👋! My name is Devansh and I'm a Robotics Enginner studying at the University of Bristol**
+ **Hi 👋! My name is Devansh and I'm a MSc Robotics student at the University of Bristol**
 
 🔭 I’m currently working on Machine Learning models and algorithms </br>
 🤝 I’m looking for help with OpenAI Generative Pre-trained models (GPT-3) </br>
